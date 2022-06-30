@@ -15,4 +15,4 @@ function ola() {
     console.log(mensagem);
 }
 
-ola("Gustavo", "Laryssa", "Maria"
+ola("Gustavo", "Laryssa", "Maria");
